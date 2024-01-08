@@ -58,3 +58,4 @@ Mobile-First Approach: The website is designed to be fully responsive and mobile
 Trendy is dedicated to providing an exceptional online shopping experience. With our comprehensive range of products and user-centric features, we aim to be the go-to destination for fashion enthusiasts seeking convenience, variety, and style.
 
 Project screenshots:
+![Uploading landing page of website - pc version.png…]()
