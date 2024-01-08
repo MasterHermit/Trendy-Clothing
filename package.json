@@ -1,0 +1,45 @@
+{
+  "name": "my-ecommerce-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.7",
+    "axios": "^1.6.0",
+    "html-react-parser": "^5.0.3",
+    "nanoid": "^5.0.2",
+    "react": "^18.2.0",
+    "react-auth-kit": "^3.0.0-alpha.35",
+    "react-datepicker": "^4.21.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-redux": "^8.1.3",
+    "react-router-dom": "^6.17.0",
+    "react-toastify": "^9.1.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.16",
+    "daisyui": "^3.9.4",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.5"
+  },
+  "description": "Welcome to Trendy, the ultimate destination for fashion enthusiasts seeking a sophisticated online shopping experience. This is the project I have made completely alone with my current React.js skills. I created this project for my college exam and also because I wanted to test my current web development skills. Trendy is an innovative e-commerce platform offering a diverse range of clothing and footwear. With a catalog of over a hundred products, my online shop is designed to cater to the varied tastes and preferences of our customers. The website is equipped with user-friendly features to ensure a seamless shopping experience. This repository is home to a comprehensive React.js eCommerce project, showcasing a refined and responsive shopping platform \r tailored for the trendy and style-savvy.",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
+}

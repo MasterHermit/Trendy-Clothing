@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 257" preserveAspectRatio="xMidYMid meet" width="31.88" height="32">
+  <!-- Blue dress -->
+  <rect x="20" y="30" width="60" height="40" fill="#3498db" />
+
+  <!-- Neckline -->
+  <rect x="40" y="20" width="20" height="10" fill="#2c3e50" />
+
+  <!-- Sleeves -->
+  <rect x="10" y="30" width="10" height="40" fill="#2c3e50" />
+  <rect x="80" y="30" width="10" height="40" fill="#2c3e50" />
+
+  <!-- Belt -->
+  <rect x="20" y="55" width="60" height="5" fill="#ecf0f1" />
+
+  <!-- Skirt -->
+  <rect x="20" y="70" width="60" height="20" fill="#3498db" />
+</svg>
