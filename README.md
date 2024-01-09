@@ -32,7 +32,7 @@ Trendy is a fashion eCommerce website design that's built with the modern consum
 2. When you install Node.js and npm on your computer you need to download the project. When you download the project, you need first to open the first terminal and write: npm install
 3. After that in the same terminal write: npm run dev
 4. The third step is mandatory if you don't have json-server installed on your computer. Open a second terminal write the following: npm install -g json-server
-5. When you do it, you need to open second terminal and run JSON server on port 8080. Just write in the second terminal: json-server --watch src/data/db.json --port 8080
+5. When you do it, you need to open second terminal and run JSON server on port 8080. Just write in the second terminal: json-server --watch src/data/db.json --port 8000
 
 # Key Features:
 
@@ -58,4 +58,19 @@ Mobile-First Approach: The website is designed to be fully responsive and mobile
 Trendy is dedicated to providing an exceptional online shopping experience. With our comprehensive range of products and user-centric features, we aim to be the go-to destination for fashion enthusiasts seeking convenience, variety, and style.
 
 Project screenshots:
+![landing page of website - pc version](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/2fc5ece4-761f-4b80-956e-f7c9593c4c5d)
+![shop now - pc version](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/669945a6-ddf5-4146-8b70-d2b0c0395108)
+![product buying page - pc version](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/b2d2dd9d-b347-44a2-b290-9507221a15c4)
+![cart - pc](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/a9781151-00f9-4b11-bfa5-f19a23eae63e)
+![thank u after purchase - pc](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/e756f06f-9e5a-4b1b-8a7d-1352ae988178)
+![register page - pc](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/f70728fc-c0f7-43ac-8d3f-b3ad3cfe00d6)
+![user profile - pc](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/e27f3af2-9b5d-4303-ab25-81cf37a7d1ff)
+![login - pc](https://github.com/MasterHermit/Trendy-Clothing/assets/75576825/69b60617-9d14-4a27-9f3a-9b015f404d5f)
+
+
+
+
+
+
+
 
