@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 205082351,
-      "name": "Walk London Milano lace up boots in black leather",
+      "name": "Walk madrid Milano lace up boots in black leather",
       "description": "Demo description",
       "isInStock": true,
       "gender": "male",
@@ -341,7 +341,7 @@
       "rating": 4,
       "reviews": [
         {
-          "username": "Paris Boye",
+          "username": "Paris bhoyle",
           "userImage": "/src/assets/user profile photo 7.jpg",
           "location": "China",
           "rating": 4,
